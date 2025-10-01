@@ -2,7 +2,7 @@
 A procees to align &amp; maintain the look &amp; feel of the solutions in an orchestrated way to allow the future changes.
 
 ## Overview 
-The following process is an example of how a styling package can be created in Thingworx and how it can be used in Thingworx solutions built with building blocks.
+The following process is an example of how a styling package can be created in Thingworx and how it can be used in Thingworx solutions built with building blocks or without building blocks.
 The process will be then followed by an example styling project and a sample small Thingworx solution. In the example the user can follow the process to update the styling project, install it in the solution and immediately see all the UI changes. 
 
 # Authors
